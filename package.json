@@ -1,0 +1,12 @@
+{
+    "name": "sbi_webhook",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Deepanshu Jain / deepanshujain92",
+    "contributors": [],
+    "dependencies": {
+                    "express":"latest",
+                    "body-parser":"latest",
+                    "request":"latest"
+                    }
+}
