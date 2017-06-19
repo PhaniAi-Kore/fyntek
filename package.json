@@ -8,5 +8,7 @@
                     "express":"latest",
                     "body-parser":"latest",
                     "request":"latest"
-                    }
+                    }, "scripts":{
+"start":"node server.js"}
+
 }
