@@ -4,7 +4,7 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "Deepanshu Jain / deepanshujain92",
     "contributors": [],
-    "main":"server.js"
+    "main":"server.js",
     "dependencies": {
                     "express":"latest",
                     "body-parser":"latest",
